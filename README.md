@@ -5,4 +5,4 @@ ___
 ## 工具类问题
 + [ubuntu下sublime无法输入中文](./ubuntu下sublime无法输入中文.md)
 
-+ [springboot下多环境配置占位符无法使用](./springboot下多环境配置占位符无法使用.md)
++ [spring boot下多环境配置占位符无法使用](./spring-boot下多环境配置占位符无法使用.md)
