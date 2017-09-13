@@ -6,3 +6,6 @@ ___
 + [ubuntu下sublime无法输入中文](./ubuntu下sublime无法输入中文.md)
 
 + [spring boot下多环境配置占位符无法使用](./spring-boot下多环境配置占位符无法使用.md)
+
+## 技术类问题
++ [html里的js被解析成标签.md](./html里的js被解析成标签.md)
