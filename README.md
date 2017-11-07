@@ -13,3 +13,5 @@ ___
 + [Html 里加载 markdown 文本](./html里加载markdown文本.md)
 
 + [spring 声明式事物](./spring声明式事物.md)
+
++ [连接Redis异常:JedisMovedDataException.md](./连接Redis异常-JedisMovedDataException.md)
