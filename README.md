@@ -7,6 +7,8 @@ ___
 
 + [spring boot下多环境配置占位符无法使用](./spring-boot下多环境配置占位符无法使用.md)
 
++ [Vbox虚拟机ubuntu共享主机文件夹](./Vbox虚拟机ubuntu共享主机文件夹.md)
+
 ## 技术类问题
 + [html里的js被解析成标签.md](./html里的js被解析成标签.md)
 
