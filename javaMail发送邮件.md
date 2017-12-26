@@ -58,4 +58,4 @@ public class MultiMailSenderTest {
 
 ## 源码地址
 
-[Github](https://github.com/zdRan/ProblemSolutions)
+[Github](https://github.com/zdRan/ProblemSolutions/tree/master/email)
