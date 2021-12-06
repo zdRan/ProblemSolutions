@@ -4,7 +4,7 @@ import java.util.Properties;
 /**
  * Create by ranzd on 2017/12/26
  *
- * @author ranzd@chinaunicom.cn
+ * @author zdRan
  */
 public class MailSenderInfo {
     /**
