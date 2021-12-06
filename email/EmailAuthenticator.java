@@ -5,7 +5,7 @@ import javax.mail.PasswordAuthentication;
 /**
  * Create by ranzd on 2017/12/26
  *
- * @author ranzd@chinaunicom.cn
+ * @author zdRan
  */
 public class EmailAuthenticator  extends Authenticator {
     private String username;
