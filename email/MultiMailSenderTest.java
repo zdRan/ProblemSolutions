@@ -6,7 +6,7 @@ import static org.junit.Assert.*;
 /**
  * Create by ranzd on 2017/12/26
  *
- * @author ranzd@chinaunicom.cn
+ * @author zdRan
  */
 public class MultiMailSenderTest {
     @Test
