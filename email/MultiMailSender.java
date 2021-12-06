@@ -12,7 +12,7 @@ import java.util.Properties;
 /**
  * Create by ranzd on 2017/12/26
  * 带附件发送邮件
- * @author ranzd@chinaunicom.cn
+ * @author zdRan
  */
 public class MultiMailSender {
 
