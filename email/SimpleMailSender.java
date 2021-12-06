@@ -16,7 +16,7 @@ import javax.mail.internet.MimeMultipart;
 /**
  * Create by ranzd on 2017/12/26
  *
- * @author ranzd@chinaunicom.cn
+ * @author zdRan
  */
 public class SimpleMailSender {
     /**
